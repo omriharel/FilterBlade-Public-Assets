@@ -16,8 +16,8 @@ jobs:
         run: |
           sudo add-apt-repository ppa:rmescandon/yq
           sudo apt-get update
-          sudo apt-get -y install yamllint jq nodejs yq
-          npm install -g ajv-cli
+          sudo apt-get -y install jq nodejs yq
+          npm install -g ajv-cli prettier
 
       - name: Check valid YAML structure
         run: |
@@ -25,8 +25,7 @@ jobs:
 
       - name: Check YAML formatting
         run: |
-          yamllint --strict --format parsable --no-warnings --rules="indentation: {spaces: 2, level: 0}" ./**/*.yml | tee indent_violations.txt
-          if [ -s indent_violations.txt ]; then exit 1; fi
+          prettier --check --tab-width 2 --prove-wrap preserve --no-semi --parser yaml "**/*.yml"
 
       # - name: Check YAML schema
       #   run: |
