@@ -1,0 +1,1013 @@
+Simple Robe:
+  text: null
+  Tabula Rasa:
+    # The text property below provides infos about a whole basetype
+    text:
+      Tabula Rasa is excluded. It is an exception due to its always 6 white linked
+      sockets.
+Elegant Round Shield:
+  text: null
+  The Squire:
+    text:
+      Detected via a special rule (using the 3 white sockets)! The oppressor can
+      be safely hidden in the unique tierlist.
+Maelström Staff:
+  text: null
+  Duskdawn:
+    text: Does not drop. Created with a vendor recipe.
+  Disintegrator:
+    text: Drops from The Uber Elder.
+Cutlass:
+  text: null
+  United in Dream:
+    text: Drops from Chayula's Flawless Breachstone.
+  Severed in Sleep:
+    text: Drops from Chayula's Breach or Breachstone.
+Sage Wand:
+  text: null
+  Relic of the Pact:
+    text: Drops from The Trialmaster.
+Assassin Bow:
+  text: null
+  Arborix:
+    text: Does not drop. Created with a vendor recipe.
+Vaal Axe:
+  text: null
+  Atziri's Disfavour:
+    text: Drops from Uber Atziri.
+  Uul-Netol's Embrace:
+    text: Drops from Uul-Netol's Flawless Breachstone.
+  Uul-Netol's Kiss:
+    text: Drops from Uul-Netol's Breach or Breachstone.
+Vaal Sceptre:
+  text: null
+  Doryani's Catalyst:
+    text: Drops from Atziri.
+  Yaomac's Accord:
+    text: Drops from The Trialmaster.
+Infernal Sword:
+  text: null
+  Starforge:
+    text: Overriden in Exceptions. Drops from The Shaper.
+  Voidforge:
+    text: Overriden in Exceptions. Drops from The Uber Elder.
+  Echoforge:
+    text: Drops from The Maven.
+Judgement Staff:
+  text: null
+  Pledge of Hands:
+    text: Drops from Atziri.
+  Atziri's Rule:
+    text: Drops from Uber Atziri.
+Gemstone Sword:
+  text: null
+  Fate of the Vaal:
+    text: Does not drop. Created with a Vial.
+  Story of the Vaal:
+    text: Drops from the Crucible of Flame in the Temple of Atzoatl.
+Highborn Staff:
+  text: null
+  Witchhunter's Judgment:
+    text: Drops from Oshabi (Harvest Boss).
+Despot Axe:
+  text: null
+  Kingmaker:
+    text: Does not drop. Created with a vendor recipe.
+Legion Sword:
+  text: null
+  The Rippling Thoughts:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Surging Thoughts:
+    text: Does not drop. Created by upgrading Rippling Thoughts via scroll.
+  The Saviour:
+    text: Drops from Sirus.
+Imperial Claw:
+  text: null
+  Hand of Wisdom and Action:
+    text: Drops from Esh's Flawless Breachstone.
+  Hand of Thought and Motion:
+    text: Drops from Esh's Breach or Breachstone.
+Vaal Rapier:
+  text: null
+  Paradoxica:
+    text: Drops from Syndicate Safehouse (Jun).
+Elegant Sword:
+  text: null
+  The Goddess Scorned:
+    text: Does not drop. Created with a vendor recipe.
+Gavel:
+  text: null
+  Cameria's Avarice:
+    text: Does not drop. Created with a vendor recipe.
+Blood Sceptre:
+  text: null
+  Cerberus Limb:
+    text: Drops from Ahuatotli (Delve).
+Imperial Staff:
+  text: null
+  The Enmity Divine:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Yielding Mortality:
+    text: Does not drop. Created by upgrading Enmity Divine via scroll.
+Ezomyte Staff:
+  text: null
+  The Fulcrum:
+    text: Found in a Curio Display in Heist.
+Tornado Wand:
+  text: null
+  Shimmeron:
+    text: Drops from The Elder.
+Nightmare Mace:
+  text: null
+  Nebuloch:
+    text: Drops from The Elder.
+Steelwood Bow:
+  text: null
+  The Crimson Storm:
+    text: Drops from Syndicate Safehouse (Jun).
+Coiled Staff:
+  text: null
+  Xirgil's Crank:
+    text: Drops from The Lord's Labyrinth.
+Citadel Bow:
+  text: null
+  The Gluttonous Tide:
+    text: Drops from The Eater of Worlds.
+  Xoph's Nurture:
+    text: Drops from Xoph's Flawless Breachstone.
+  Xoph's Inception:
+    text: Drops from Xoph's Breach or Breachstone.
+Hellion's Paw:
+  text: null
+  Law of the Wilds:
+    text: Drops from Oshabi (Harvest Boss).
+Ranger Bow:
+  text: null
+  Hopeshredder:
+    text: Drops from The Elder.
+Void Sceptre:
+  text: null
+  Nebulis:
+    text: Drops from Cortex.
+Opal Wand:
+  text: null
+  Tulfall:
+    text: Drops from Tul's Flawless Breachstone.
+  Tulborn:
+    text: Drops from Tul's Breach or Breachstone.
+Gladius:
+  text: null
+  The Iron Mass:
+    text: Found in a Curio Display in Heist.
+Ambusher:
+  text: null
+  The Hidden Blade:
+    text: Found in a Curio Display in Heist.
+Serpentine Staff:
+  text: null
+  Cane of Kulemak:
+    text: Drops from Catarina (Jun Boss).
+Quartz Flask:
+  text: null
+  Soul Ripper:
+    text: Does not drop. Created with a Vial (Alva Temple).
+  Soul Catcher:
+    text: Drops from The Vaal Omnitect (Alva Temple).
+Sulphur Flask:
+  text: null
+  Bottled Faith:
+    text: Drops from Cortex.
+Ruby Flask:
+  text: null
+  Dying Sun:
+    text: Drops from The Shaper.
+  Coruscating Elixir:
+    text: Does not drop. Obtained from a Divination Card set.
+Silver Flask:
+  text: null
+  Cinderswallow Urn:
+    text: Drops from Catarina (Jun Boss).
+Bismuth Flask:
+  text: null
+  Oriath's End:
+    text: Drops from Sirus.
+Topaz Flask:
+  text: null
+  Vessel of Vinktar:
+    text: Drops from The Vinktar Square.
+Amethyst Flask:
+  text: null
+  Atziri's Promise:
+    text: Drops from Atziri.
+  Progenesis:
+    text: Drops from The Uber Maven.
+Golden Buckler:
+  text: null
+  Atziri's Reflection:
+    text: Drops from Uber Atziri.
+Triumphant Lamellar:
+  text: null
+  Farrul's Fur:
+    text: Drops from Farrul (Einhar Boss).
+Sadist Garb:
+  text: null
+  Doppelgänger Guise:
+    text: Drops from The Maven.
+Vaal Gauntlets:
+  text: null
+  Atziri's Acuity:
+    text: Drops from Uber Atziri.
+Steelscale Gauntlets:
+  text: null
+  Tombfist:
+    text: Drops from Abyssal Depths.
+Vaal Spirit Shield:
+  text: null
+  Apep's Supremacy:
+    text: Does not drop. Created with a Vial (Alva Temple).
+  Apep's Slumber:
+    text: Drops from the Cultivar Chamber in the Temple of Atzoatl.
+  Esh's Visage:
+    text: Drops from Esh's Flawless Breachstone.
+  Esh's Mirror:
+    text: Drops from Esh's Breach or Breachstone.
+Blood Raiment:
+  text: null
+  The Eternity Shroud:
+    text: Drops from The Uber Elder.
+  Saqawal's Nest:
+    text: Drops from Saqawal (Einhar Boss).
+Sacrificial Garb:
+  text: null
+  Atziri's Splendour:
+    text: Drops from Uber Atziri.
+Murder Boots:
+  text: null
+  Bubonic Trail:
+    text: Drops from Abyssal Depths.
+  Voidwalker:
+    text: Drops from The Shaper.
+Carnal Armour:
+  text: null
+  Shroud of the Lightless:
+    text: Drops from Abyssal Depths.
+  Stasis Prison:
+    text: Drops from the Unrelenging Timeless Emblem.
+Sorcerer Boots:
+  text: null
+  Doryani's Delusion:
+    text: Drops in Doryani's Machinarium.
+  Steppan Eard:
+    text: Drops from Renegades Warband.
+Riveted Gloves:
+  text: null
+  Command of the Pit:
+    text: Drops from Kurgal (Delve Boss).
+Crusader Boots:
+  text: null
+  Death's Door:
+    text: Drops from The Lord's Labyrinth.
+Legion Gloves:
+  text: null
+  Offering to the Serpent:
+    text: Drops from Cortex.
+Great Crown:
+  text: null
+  Lightpoacher:
+    text: Drops from Abyssal Depths.
+  Forbidden Shako:
+    text: Drops from Oshabi (Harvest Boss).
+Magistrate Crown:
+  text: null
+  Crown of the Tyrant:
+    text: Drops from Aul (Delve Boss).
+  Mask of the Stitched Demon:
+    text: Does not drop. Created with a Vial (Alva Temple).
+  Mask of the Spirit Drinker:
+    text: Drops from the Sanctum of Immortality in the Temple of Atzoatl.
+  Mask of the Tribunal:
+    text: Drops from a Distant Memory boss.
+  Craiceann's Chitin:
+    text: Drops from Craiceann (Einhar Boss).
+Callous Mask:
+  text: null
+  The Tempest's Binding:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Tempest's Liberation:
+    text: Does not drop. Created by upgrading Tempest's Binding via scroll.
+Necromancer Circlet:
+  text: null
+  The Devouring Diadem:
+    text: Drops from Catarina (Jun Boss).
+  Fenumus' Toxins:
+    text: Drops from Fenumus (Einhar Boss).
+Elegant Ringmail:
+  text: null
+  Loreweave:
+    text: Does not drop. Created with a vendor recipe.
+Ezomyte Tower Shield:
+  text: null
+  The Surrender:
+    text: Drops from Uul-Netol's Flawless Breachstone.
+  The Anticipation:
+    text: Drops from Uul-Netol's Breach or Breachstone.
+Ambush Mitts:
+  text: null
+  Slavedriver's Hand:
+    text: Does not drop. Created with a Vial.
+  Architect's Hand:
+    text: Drops from the Defense Research Lab in the Temple of Atzoatl.
+  Abhorrent Interrogation:
+    text: Drops from Oshabi (Harvest Boss).
+Widowsilk Robe:
+  text: null
+  Fenumus' Shroud:
+    text: Drops from Fenumus (Einhar Boss).
+Carnal Boots:
+  text: null
+  Omeyocan:
+    text: Does not drop. Created with a Vial (Alva Temple).
+  Dance of the Offered:
+    text: Drops from the Lightning Workshop in the Temple of Atzoatl.
+Hubris Circlet:
+  text: null
+  Indigon:
+    text: Drops from The Uber Elder.
+Archon Kite Shield:
+  text: null
+  Invictus Solaris:
+    text: Drops from the Twilight Temple.
+  Unyielding Flame:
+    text: Drops from The Lord's Labyrinth.
+  Broken Faith:
+    text: Drops from Renegades Warband.
+  The Unshattered Will:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Immortal Will:
+    text: Does not drop. Created with a Scroll.
+Golden Plate:
+  text: null
+  Craiceann's Carapace:
+    text: Drops from Craiceann (Einhar Boss).
+Carnal Mitts:
+  text: null
+  Fenumus' Weave:
+    text: Drops from Fenumus (Einhar Boss).
+  Soul Ascension:
+    text: Drops from The Uber Uber Elder.
+Titan Greaves:
+  text: null
+  The Red Trail:
+    text: Drops from Uul-Netol's Flawless Breachstone.
+  The Infinite Pursuit:
+    text: Drops from Uul-Netol's Breach or Breachstone.
+  Doryani's Delusion:
+    text: Drops in Doryani's Machinarium.
+Vaal Mask:
+  text: null
+  The Vertex:
+    text: Drops from Uber Atziri.
+Tarnished Spirit Shield:
+  text: null
+  Brinerot Flag:
+    text: Drops from Brinerot Warband.
+Zodiac Leather:
+  text: null
+  The Perfect Form:
+    text: Drops from Tul's Flawless Breachstone.
+  The Snowblind Grace:
+    text: Drops from Tul's Breach or Breachstone.
+Blunt Arrow Quiver:
+  text: null
+  The Fracturing Spinner:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Shattered Divinity:
+    text: Does not drop. Created by upgrading Fracturing Spinner with a Scroll.
+Pinnacle Tower Shield:
+  text: null
+  Magna Eclipsis:
+    text: Does not drop. Created with a vendor recipe.
+Harlequin Mask:
+  text: null
+  Farrul's Bite:
+    text: Drops from Farrul (Einhar Boss).
+Prophet Crown:
+  text: null
+  Crown of the Inward Eye:
+    text: Drops from Sirus.
+Vaal Regalia:
+  text: null
+  The Queen's Hunger:
+    text: Drops from Catarina (Jun Boss).
+Savant's Robe:
+  text: null
+  Cloak of Tawm'r Isley:
+    text: Drops from Elreon's chest in a Syndicate Safehouse.
+  Garb of the Ephemeral:
+    text: Drops from Cortex.
+Assassin's Boots:
+  text: null
+  Fenumus' Spinnerets:
+    text: Drops from Fenumus (Einhar Boss).
+  The Stampede:
+    text: Drops in Blighted Maps.
+Varnished Coat:
+  text: null
+  The Admiral:
+    text: Drops from Admiral Darnaw (Unique Heist Contract Boss)
+Crusader Gloves:
+  text: null
+  Shaper's Touch:
+    text: Drops from The Shaper.
+  Hands of the High Templar:
+    text: Drops from Sirus.
+Ancient Gauntlets:
+  text: null
+  Winds of Change:
+    text: Drops from The Lord's Labyrinth.
+  Hateforge:
+    text: Drops from The Trialmaster.
+Slink Boots:
+  text: null
+  Farrul's Chase:
+    text: Drops from Farrul (Einhar Boss).
+  Doryani's Delusion:
+    text: Drops in Doryani's Machinarium.
+  Atziri's Step:
+    text: Drops from Atziri.
+Hydrascale Gauntlets:
+  text: null
+  Farrul's Pounce:
+    text: Drops from Farrul (Einhar Boss).
+  Breathstealer:
+    text: Drops in Blighted Maps.
+Royal Burgonet:
+  text: null
+  The Formless Inferno:
+    text: Drops from Xoph's Flawless Breachstone.
+  The Formless Flame:
+    text: Drops from Xoph's Breach or Breachstone.
+  Echoes of Creation:
+    text: Drops from The Shaper.
+Zealot Gloves:
+  text: null
+  Hand of the Fervent:
+    text: Does not drop. Sold in Ritual.
+Cardinal Round Shield:
+  text: null
+  Vix Lunaris:
+    text: Drops from the Twilight Temple.
+Mind Cage:
+  text: null
+  Hale Negator:
+    text: Drops from Kurgal (Delve Boss).
+Goliath Greaves:
+  text: null
+  Craiceann's Tracks:
+    text: Drops from Craiceann (Einhar Boss).
+Ezomyte Burgonet:
+  text: null
+  Cowl of the Thermophile:
+    text: Drops from Blighted Maps.
+Titanium Spirit Shield:
+  text: null
+  Bitterbind Point:
+    text: Drops from Catarina (Jun Boss).
+Silken Hood:
+  text: null
+  Saqawal's Flock:
+    text: Drops from Saqawal (Einhar Boss).
+  Cowl of the Cryophile:
+    text: Drops from Blighted Map.
+Praetor Crown:
+  text: null
+  Viridi's Veil:
+    text: Drops from The Maven.
+Hydrascale Boots:
+  text: null
+  Saqawal's Talons:
+    text: Drops from Saqawal (Einhar Boss).
+Soldier Gloves:
+  text: null
+  Saqawal's Winds:
+    text: Drops from Saqawal (Einhar Boss).
+Titan Gauntlets:
+  text: null
+  Craiceann's Pincers:
+    text: Drops from Craiceann (Einhar Boss).
+Trapper Boots:
+  text: null
+  Brinerot Whalers:
+    text: Drops from Brinerot Warband.
+Solaris Circlet:
+  text: null
+  Cowl of the Ceraunophile:
+    text: Drops from Blighted Map.
+Mirrored Spiked Shield:
+  text: null
+  Font of Thunder:
+    text: Found in a Curio Display in Heist.
+Regicide Mask:
+  text: null
+  Gorgon's Gaze:
+    text: Drops from Pillars of Arun boss.
+Dragonscale Boots:
+  text: null
+  Annihilation's Approach:
+    text: Drops from The Uber Searing Exarch.
+Enameled Buckler:
+  text: null
+  Mutewind Pennant:
+    text: Drops from Mutewind Warband.
+Serpentscale Boots:
+  text: null
+  Mutewind Whispersteps:
+    text: Drops from Mutewind Warband.
+Broadhead Arrow Quiver:
+  text: null
+  Steelworm:
+    text: Drops from The Lord's Labyrinth.
+Painted Tower Shield:
+  text: null
+  Redblade Banner:
+    text: Drops from Redblade Warband.
+Ancient Greaves:
+  text: null
+  Redblade Tramplers:
+    text: Drops from Redblade Warband.
+Assassin's Mitts:
+  text: null
+  Blasphemer's Grasp:
+    text: Drops from The Elder.
+  Storm's Gift:
+    text: Drops from a Distant Memory boss.
+  Entropic Devastation:
+    text: Drops from The Uber Shaper.
+Colossal Tower Shield:
+  text: null
+  Dawnbreaker:
+    text: Drops from The Searing Exarch.
+Sentinel Jacket:
+  text: null
+  Expedition's End:
+    text: Found in a Curio Display in Heist.
+Bone Circlet:
+  text: null
+  Plume of Pursuit:
+    text: Drops from Janaar (Harvest Boss).
+Chiming Spirit Shield:
+  text: null
+  The Scales of Justice:
+    text: Drops from The Lord's Labyrinth.
+Shagreen Boots:
+  text: null
+  Temptation Step:
+    text: Drops from The Trialmaster.
+Lacquered Helmet:
+  text: null
+  The Fledgling:
+    text: Drops from Nashta (Unique Heist Contract Boss).
+Leather Belt:
+  text: null
+  Hyperboreus:
+    text: Drops from Syndicate Safehouse.
+  Cyclopean Coil:
+    text: Drops from The Elder.
+  Bear's Girdle:
+    text: Drops from Ersi (Harvest Boss).
+Paua Amulet:
+  text: null
+  Zerphi's Heart:
+    text: Does not drop. Created with a Vial.
+  Sacrificial Heart:
+    text: Drops from The Vaal Omnitect.
+Jade Amulet:
+  text: null
+  The Pandemonius:
+    text: Drops from Tul's Flawless Breachstone.
+  The Halcyon:
+    text: Drops from Tul's Breach or Breachstone.
+Amber Amulet:
+  text: null
+  Xoph's Blood:
+    text: Drops from Xoph's Flawless Breachstone.
+  Xoph's Heart:
+    text: Drops from Xoph's Breach or Breachstone.
+Onyx Amulet:
+  text: null
+  Solstice Vigil:
+    text: Drops from The Shaper.
+  Presence of Chayula:
+    text: Does not drop. Created with a Blessing of Chayula.
+  Aul's Uprising:
+    text: Drops from Aul (Delve Boss).
+  Impresence:
+    text: Drops from The Elder.
+  Stranglegasp:
+    text: Drops from Blight-ravaged map.
+  Ashes of the Stars:
+    text: Drops from The Eater of Worlds.
+  Crystallised Omniscience:
+    text: Drops from The Searing Exarch.
+  The Eternal Struggle:
+    text: Drops from The Black Star and from The Infinite Hunger.
+  Leadership's Price:
+    text: "Drops from Contract: The Twins (Unique Heist Contact Boss)."
+Topaz Ring:
+  text: null
+  Putembo's Mountain:
+    text: Drops from Aul (Delve Boss).
+  Putembo's Meadow:
+    text: Drops from Kurgal (Delve Boss).
+  Putembo's Valley:
+    text: Drops from Ahuatotli (Delve Boss).
+  Precursor's Emblem:
+    text: Does not drop. Created with a vendor recipe.
+  Circle of Regret:
+    text: Drops from a Distant Memory boss.
+  Astral Projector:
+    text: Drops from Metamorph in Tane's Lab.
+  Nimis:
+    text: Drops from The Uber Eater of Worlds.
+Prismatic Ring:
+  text: null
+  The Taming:
+    text: Does not drop. Created with a vendor recipe.
+  Precursor's Emblem:
+    text: Does not drop. Created with a vendor recipe.
+Two-Stone Ring:
+  text: null
+  Precursor's Emblem:
+    text: Does not drop. Created with a vendor recipe.
+Ruby Ring:
+  text: null
+  Precursor's Emblem:
+    text: Does not drop. Created with a vendor recipe.
+  Ahkeli's Meadow:
+    text: Drops from Aul (Delve Boss).
+  Ahkeli's Valley:
+    text: Drops from Kurgal (Delve Boss).
+  Ahkeli's Mountain:
+    text: Drops from Ahuatotli (Delve Boss).
+  Circle of Anguish:
+    text: Drops from a Distant Memory boss.
+  Warrior's Legacy:
+    text: Drops from Metamorph in Tane's Lab.
+Sapphire Ring:
+  text: null
+  Precursor's Emblem:
+    text: Does not drop. Created with a vendor recipe.
+  Uzaza's Valley:
+    text: Drops from Aul (Delve Boss).
+  Uzaza's Mountain:
+    text: Drops from Kurgal (Delve Boss).
+  Uzaza's Meadow:
+    text: Drops from Ahuatotli (Delve Boss).
+  Circle of Fear:
+    text: Drops from a Distant Memory boss.
+  Call of the Void:
+    text: Drops from The Uber Elder.
+Lapis Amulet:
+  text: null
+  Choir of the Storm:
+    text: Drops from Esh's Flawless Breachstone.
+  Voice of the Storm:
+    text: Drops from Esh's Breach or Breachstone.
+Unset Ring:
+  text: null
+  The Pariah:
+    text: Drops from Renegades Warband.
+  Vivinsect:
+    text: Drops from Syndicate Safehouse.
+  Brinerot Mark:
+    text: Drops from Brinerot Warband.
+  Redblade Band:
+    text: Drops from Redblade Warband.
+  Mutewind Seal:
+    text: Drops from Mutewind Warband.
+  Rotblood Promise:
+    text: Does not drop. Sold in Ritual.
+  Triumvirate Authority:
+    text: Drops from Atziri and Uber Atziri.
+Chain Belt:
+  text: null
+  Coward's Legacy:
+    text: Does not drop. Created with a Vial.
+  Coward's Chains:
+    text: Drops from the Hybridization Chamber in the Temple of Atzoatl.
+  Chains of Emancipation:
+    text: Drops from Friedrich Tarollo (Unique Heist Contact Boss).
+Heavy Belt:
+  text: null
+  Doryani's Invitation:
+    text: Drops from Atziri.
+  Mother's Embrace:
+    text: Drops from Metamorph in Tane's Lab.
+  Survivor's Guilt:
+    text: Does not drop. Sold in Ritual.
+Opal Ring:
+  text: null
+  Mark of the Shaper:
+    text: Drops from The Uber Elder.
+  Polaric Devastation:
+    text: Drops from The Black Star.
+Cloth Belt:
+  text: null
+  The Flow Untethered:
+    text: Does not drop. Created from Harbinger Pieces.
+  The Torrent's Reclamation:
+    text: Does not drop. Created by upgrading Flow Untethered with a Scroll.
+  Arn's Anguish:
+    text: Drops from The Maven.
+  Olesya's Delight:
+    text: Drops from The Maven.
+  Graven's Secret:
+    text: Drops from The Maven.
+Rustic Sash:
+  text: null
+  The Retch:
+    text: Does not drop. Created with a vendor recipe.
+Citrine Amulet:
+  text: null
+  The Felbog Fang:
+    text: Drops from Namharim (Harvest Boss).
+Iron Ring:
+  text: null
+  Circle of Guilt:
+    text: Drops from a Distant Memory boss.
+Paua Ring:
+  text: null
+  Fated End:
+    text: Found in a Curio Display in Heist.
+Steel Ring:
+  text: null
+  Mark of the Elder:
+    text: Drops from The Uber Elder.
+Amethyst Ring:
+  text: null
+  Circle of Nostalgia:
+    text: Drops from a Distant Memory boss.
+  Blackflame:
+    text: Does not drop. Sold in Ritual.
+Crystal Belt:
+  text: null
+  The Burden of Truth:
+    text: Drops from Sirus.
+Stygian Vise:
+  text: null
+  Darkness Enthroned:
+    text: Drops from Abyssal Depths.
+Turquoise Amulet:
+  text: null
+  Fury Valve:
+    text: Drops from Metamorph in Tane's Lab.
+Steel Circlet:
+  text: null
+  Sudden Dawn:
+    text: Drops from The Black Star.
+Saint's Hauberk:
+  text: null
+  Sporeguard:
+    text: Drops from Blighted Map.
+Ezomyte Spiked Shield:
+  text: null
+  Perepiteia:
+    text: Drops from a Distant Memory boss.
+Steel Kite Shield:
+  text: null
+  Mahuxotl's Machination:
+    text: Drops from The Trialmaster.
+Butcher Axe:
+  text: null
+  Actum:
+    text: Found in a Curio Display in Heist.
+Fluted Bascinet:
+  text: null
+  Crest of Desire:
+    text: Found in a Curio Display in Heist.
+Crimson Round Shield:
+  text: null
+  Shattershard:
+    text: Found in a Curio Display in Heist.
+Bone Helmet:
+  text: null
+  Maw of Mischief:
+    text: Does not drop. Obtained from a Divination Card set.
+Wyrmscale Boots:
+  text: null
+  Legacy of Fury:
+    text: Drops from The Maven.
+Sovereign Spiked Shield:
+  text: null
+  Qotra's Regulator:
+    text: Does not drop. Sold in Ritual.
+Iron Flask:
+  text: null
+  Olroth's Resolve:
+    text: Drops from Olroth (expedition boss).
+  Starlight Chalice:
+    text: Drops from Uthred (expedition boss).
+  Vorana's Preparation:
+    text: Drops from Vorana (expedition boss).
+  Elixir of the Unbroken Circle:
+    text: Drops from Medved (expedition boss).
+Runic Crown:
+  text: null
+  Cadigan's Crown:
+    text: Drops from Olroth (expedition boss).
+Runic Sabatons:
+  text: null
+  Vorana's March:
+    text: Drops from Olroth (expedition boss).
+Runic Sollerets:
+  text: Drops from Expedition.
+Runic Helm:
+  text: Drops from Expedition.
+Runic Gages:
+  text: Drops from Expedition.
+Runic Gauntlets:
+  text: Drops from Expedition.
+Unset Amulet:
+  text: null
+  Uul-Netol's Vow:
+    text: Drops from Flawless Breachstone.
+Quarterstaff:
+  text: null
+  The Annihilating Light:
+    text: Drops from The Searing Exarch.
+Primal Arrow Quiver:
+  text: null
+  Voidfletcher:
+    text: Drops from The Uber Elder.
+Fingerless Silk Gloves:
+  text: null
+  Black Zenith:
+    text: Drops from The Infinite Hunger.
+Spiked Gloves:
+  text: null
+  Ceaseless Feast:
+    text: Drops from The Infinite Hunger.
+Fugitive Boots:
+  text: null
+  Inextricable Fate:
+    text: Drops from The Eater of Worlds.
+Vaal Greaves:
+  text: null
+  Dawnstrider:
+    text: Drops from The Searing Exarch.
+Prismatic Jewel:
+  text: null
+  Emperor's Mastery:
+    text: Drops from The Lord's Labyrinth.
+  Watcher's Eye:
+    text: Drops from The Elder.
+  Sublime Vision:
+    text: Drops from The Uber Shaper.
+  Anima Stone:
+    text: Does not drop. Created with a vendor recipe.
+Large Cluster Jewel:
+  text: Drops from Simulacrum.
+Timeless Jewel:
+  text: Drops from Domain of Timeless Conflict
+Medium Cluster Jewel:
+  text: Drops from Simulacrum.
+Small Cluster Jewel:
+  text: Drops from Delirious Maps.
+Ghastly Eye Jewel:
+  text: null
+  Amanamu's Gaze:
+    text: Drops from Abyssal Depths.
+Hypnotic Eye Jewel:
+  text: null
+  Kurgal's Gaze:
+    text: Drops from Abyssal Depths.
+Searching Eye Jewel:
+  text: null
+  Ulaman's Gaze:
+    text: Drops from Abyssal Depths.
+Murderous Eye Jewel:
+  text: null
+  Tecrod's Gaze:
+    text: Drops from Abyssal Depths.
+Cobalt Jewel:
+  text: null
+  Grand Spectrum:
+    text: Drops from The Lord's Labyrinth.
+  Emperor's Wit:
+    text: Drops from The Lord's Labyrinth.
+  Apex Mode:
+    text: "Drops from Contract: Breaking the Unbreakable."
+  Nadir Mode:
+    text: "Drops from Contract: Breaking the Unbreakable."
+  Melding of the Flesh:
+    text: Drops from The Eater of Worlds.
+  Primordial Harmony:
+    text: Drops from Primeval Chamber in Delve.
+  Rational Doctrine:
+    text: Drops from Uber Cortex.
+  Tempered Mind:
+    text: Drops from The Vaal Omnitect.
+  The Blue Dream:
+    text: Drops from Chayula's Breach or Breachstone.
+  The Blue Nightmare:
+    text: Drops from Chayula's Flawless Breachstone.
+  Transcendent Mind:
+    text: Does not drop. Created with a Vial.
+  Brute Force Solution:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Energy From Within:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Fertile Mind:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Fevered Mind:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Fortress Covenant:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Healthy Mind:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Powerlessness:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Reckless Defence:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Soul's Wick:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  To Dust:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Combat Focus:
+    text: Does not drop. Created with a vendor recipe.
+  Endless Misery:
+    text: Does not drop. Created with a vendor recipe.
+Viridian Jewel:
+  text: null
+  Grand Spectrum:
+    text: Drops from The Lord's Labyrinth.
+  Emperor's Cunning:
+    text: Drops from The Lord's Labyrinth.
+  Primordial Eminence:
+    text: Drops from Primeval Chamber in Delve.
+  Tempered Spirit:
+    text: Drops from The Vaal Omnitect.
+  Transcendent Spirit:
+    text: Does not drop. Created with a Vial.
+  The Green Dream:
+    text: Drops from Chayula's Breach or Breachstone.
+  The Green Nightmare:
+    text: Drops from Chayula's Flawless Breachstone.
+  Careful Planning:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Chill of Corruption:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Fluid Motion:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Hidden Potential:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Pacifism:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Quickening Covenant:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Seething Fury:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Self-Flagellation:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  The Golden Rule:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Combat Focus:
+    text: Does not drop. Created with a vendor recipe.
+  Spirit Guards:
+    text: Does not drop. Created with a vendor recipe.
+Crimson Jewel:
+  text: null
+  Grand Spectrum:
+    text: Drops from The Lord's Labyrinth.
+  Emperor's Might:
+    text: Drops from The Lord's Labyrinth.
+  Dissolution of the Flesh:
+    text: Drops from The Searing Exarch.
+  Primordial Might:
+    text: Drops from Primeval Chamber in Delve.
+  Split Personality:
+    text: Drops from Simulacrum.
+  Thread of Hope:
+    text: Drops from Sirus.
+  Tempered Flesh:
+    text: Drops from The Vaal Omnitect.
+  The Red Nightmare:
+    text: Drops from Chayula's Flawless Breachstone.
+  The Red Dream:
+    text: Drops from Chayula's Breach or Breachstone.
+  Transcendent Flesh:
+    text: Does not drop. Created with a Vial.
+  Combat Focus:
+    text: Does not drop. Created with a vendor recipe.
+  Atziri's Reign:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Efficient Training:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Energised Armour:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Fragility:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Inertia:
+    text: Overridden in Exceptions. Only Drops Corrupted.
+  Rain of Splinters:
+    text: Overridden in Exceptions. Only Drops Corrupted.
