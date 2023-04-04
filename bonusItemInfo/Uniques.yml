@@ -1,4 +1,5 @@
 Simple Robe:
+  # the "text" property below provides infos about a whole basetype
   text: null
   Tabula Rasa:
     comment: "COMMENT: the text property below provides infos about an individual unique"
