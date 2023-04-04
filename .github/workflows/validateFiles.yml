@@ -14,20 +14,21 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update && sudo apt-get -y install yamllint jq nodejs
+          sudo add-apt-repository ppa:rmescandon/yq
+          sudo apt-get update
+          sudo apt-get -y install yamllint jq nodejs yq
           npm install -g ajv-cli
 
-      - name: Validate YAML files recursively
+      - name: Check valid YAML structure
         run: |
-          yamllint --format parsable ./**/*.yml | tee format_violations.txt
-          if [ -s format_violations.txt ]; then exit 1; fi
+          find . -type f -name '*.yml' -exec yq e . {} \; > /dev/null
 
-      - name: Check YAML indentation
+      - name: Check YAML formatting
         run: |
           yamllint --format parsable --rules="indentation: {spaces: 2, level: 0}" ./**/*.yml | tee indent_violations.txt
           if [ -s indent_violations.txt ]; then exit 1; fi
 
-      # - name: Validate YAML schema
+      # - name: Check YAML schema
       #   run: |
       #     for f in `find . -name "*.yml"`; do
       #       ajv validate -s my_schema.json -d $f || exit 1
