@@ -1,0 +1,34 @@
+name: Validate YAML files
+
+on:
+  push:
+    paths:
+      - "**/*.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get -y install yamllint jq nodejs
+          npm install -g ajv-cli
+
+      - name: Validate YAML files recursively
+        run: |
+          yamllint --strict --format parsable ./**/*.yml | tee violations.txt
+          if [ -s violations.txt ]; then exit 1; fi
+
+      - name: Check YAML indentation
+        run: |
+          yamllint --strict --format parsable --no-document-start --rules="indentation: {spaces: 2, level: 0}" ./**/*.yml | tee indent_violations.txt
+          if [ -s indent_violations.txt ]; then exit 1; fi
+
+      # - name: Validate YAML schema
+      #   run: |
+      #     for f in `find . -name "*.yml"`; do
+      #       ajv validate -s my_schema.json -d $f || exit 1
+      #     done

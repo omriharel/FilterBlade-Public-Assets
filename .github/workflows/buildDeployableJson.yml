@@ -1,0 +1,28 @@
+name: Build deployable JSON
+
+on:
+  workflow_run:
+    workflows: ["Validate YAML files"]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get -y install python3-pip
+          pip3 install -r builder/requirements.txt
+
+      - name: Run custom Python script
+        run: python3 builder/run.py -i ./bonusItemInfo -o bonusItemInfo.json
+
+      - name: Upload script output as build artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: bonusItemInfo.json
+          path: bonusItemInfo.json
