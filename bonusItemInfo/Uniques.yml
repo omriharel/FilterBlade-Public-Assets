@@ -2,7 +2,7 @@ Simple Robe:
   # the "text" property below provides infos about a whole basetype
   text: null
   Tabula Rasa:
-    comment: "COMMENT: the text property below provides infos about an individual unique"
+    # the "text" property below provides infos about an individual unique
     text: Tabula Rasa is excluded. It is an exception due to its always 6 white linked sockets.
 Elegant Round Shield:
   text: null
