@@ -25,7 +25,7 @@ jobs:
 
       - name: Check YAML formatting
         run: |
-          prettier --check --tab-width 2 --prove-wrap preserve --no-semi --parser yaml "**/*.yml"
+          prettier --check --tab-width 2 --prose-wrap preserve --no-semi --parser yaml "**/*.yml"
 
       # - name: Check YAML schema
       #   run: |
