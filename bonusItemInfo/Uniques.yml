@@ -2,15 +2,11 @@ Simple Robe:
   text: null
   Tabula Rasa:
     # The text property below provides infos about a whole basetype
-    text:
-      Tabula Rasa is excluded. It is an exception due to its always 6 white linked
-      sockets.
+    text: Tabula Rasa is excluded. It is an exception due to its always 6 white linked sockets.
 Elegant Round Shield:
   text: null
   The Squire:
-    text:
-      Detected via a special rule (using the 3 white sockets)! The oppressor can
-      be safely hidden in the unique tierlist.
+    text: Detected via a special rule (using the 3 white sockets)! The oppressor can be safely hidden in the unique tierlist.
 Maelström Staff:
   text: null
   Duskdawn:
