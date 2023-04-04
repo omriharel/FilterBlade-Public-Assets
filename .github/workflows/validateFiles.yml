@@ -19,12 +19,12 @@ jobs:
 
       - name: Validate YAML files recursively
         run: |
-          yamllint --strict --format parsable ./**/*.yml | tee violations.txt
-          if [ -s violations.txt ]; then exit 1; fi
+          yamllint --format parsable ./**/*.yml | tee format_violations.txt
+          if [ -s format_violations.txt ]; then exit 1; fi
 
       - name: Check YAML indentation
         run: |
-          yamllint --strict --format parsable --no-document-start --rules="indentation: {spaces: 2, level: 0}" ./**/*.yml | tee indent_violations.txt
+          yamllint --format parsable --rules="indentation: {spaces: 2, level: 0}" ./**/*.yml | tee indent_violations.txt
           if [ -s indent_violations.txt ]; then exit 1; fi
 
       # - name: Validate YAML schema
