@@ -33,7 +33,7 @@ jobs:
       #       ajv validate -s my_schema.json -d $f || exit 1
       #     done
 
-  deploy:
+  compose-json:
     runs-on: ubuntu-latest
     needs: validate
     steps:
@@ -49,7 +49,7 @@ jobs:
         run: python3 builder/run.py -i ./bonusItemInfo -o bonusItemInfo.json
 
       - name: Upload script output as build artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: bonusItemInfo.json
+          name: composed-json
           path: bonusItemInfo.json
